@@ -1,11 +1,6 @@
-# requirements.txt - Optimized for Streamlit Cloud
-
 streamlit
 pandas
-numpy
-scikit-learn
 matplotlib
 sqlalchemy
 psycopg2-binary
-tensorflow-cpu==2.11.0
-protobuf==3.20.*
+prophet
